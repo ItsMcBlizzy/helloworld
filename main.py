@@ -6,9 +6,9 @@ This exercise is copied from https://github.com/SmallLion/Python-Projects/blob/m
 import random
 
 
-lives = 3
+lives = 5
 
-words = ['pizza', 'fairy', 'teeth', 'shirt', 'otter', 'plane']
+words = ['pizza', 'fairy', 'teeth', 'shirt', 'otter', 'plane', 'water']
 secret_word = random.choice(words)
 
 clue = list('?????')
